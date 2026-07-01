@@ -38,9 +38,10 @@ const dinmuhammad = {
     backend: ["Node.js", "NestJS", "TypeScript"],
     frontend: ["React", "Next.js"],
     database: ["PostgreSQL", "Prisma", "Redis"],
+    ai: ["OpenAI API", "Claude API", "AI Integration", "RAG"],
   },
   philosophy: "Reliable code, better performance, best engineering practices",
-  currentlyLearning: "Distributed Systems & System Design",
+  currentlyLearning: "Distributed Systems & AI-powered Applications",
 };
 ```
 
@@ -61,6 +62,18 @@ const dinmuhammad = {
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC-244B5A?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+#### 🤖 AI & Integrations
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Integration-6E56CF?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Apps-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 #### 🗄 Databases & ORM
@@ -107,8 +120,8 @@ const dinmuhammad = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dinmuhammad05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinmuhammad05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dinmuhammad05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinmuhammad05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </div>
 
 <div align="center">
