@@ -174,51 +174,15 @@ const dinmuhammad = {
 ---
 -->
 
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
-## 📊 GitHub Statistics
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dinmuhammad05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=A9B1D6&cache_seconds=1800" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=dinmuhammad05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=3B5BDB&icon_color=3B5BDB&cache_seconds=1800" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dinmuhammad05&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=00000000&title_color=7AA2F7&text_color=A9B1D6&cache_seconds=1800" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinmuhammad05&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=3B5BDB&cache_seconds=1800" alt="Top languages" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dinmuhammad05&hide_border=true&theme=tokyonight&background=00000000&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" />
-    <img src="https://streak-stats.demolab.com?user=dinmuhammad05&hide_border=true&background=00000000&ring=3B5BDB&fire=3B5BDB&currStreakLabel=3B5BDB" alt="Contribution streak" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dinmuhammad05&hide_border=true&area=true&bg_color=00000000&color=7AA2F7&line=7AA2F7&point=C0CAF5&title_color=7AA2F7" />
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinmuhammad05&hide_border=true&area=true&bg_color=00000000&color=3B5BDB&line=3B5BDB&point=1A1B27&title_color=3B5BDB" alt="Contribution activity graph" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dinmuhammad05&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=1&column=6&title_color=7AA2F7&text_color=6B7280" alt="Trophies" />
-</div>
-
-<br/>
-
----
-
 <!-- ═══════════════════════ SOFT SKILLS ═══════════════════════ -->
 ## 💡 Soft Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Problem_Solving-0D1117?style=flat-square&color=0D1117&labelColor=7AA2F7" />
-  <img src="https://img.shields.io/badge/Team_Collaboration-0D1117?style=flat-square&color=0D1117&labelColor=7AA2F7" />
-  <img src="https://img.shields.io/badge/Clear_Communication-0D1117?style=flat-square&color=0D1117&labelColor=7AA2F7" />
-  <img src="https://img.shields.io/badge/Working_Under_Pressure-0D1117?style=flat-square&color=0D1117&labelColor=7AA2F7" />
-  <img src="https://img.shields.io/badge/Ownership-0D1117?style=flat-square&color=0D1117&labelColor=7AA2F7" />
+  <img src="https://img.shields.io/badge/Problem_Solving-7AA2F7?style=flat-square&labelColor=7AA2F7" />
+  <img src="https://img.shields.io/badge/Team_Collaboration-7AA2F7?style=flat-square&labelColor=7AA2F7" />
+  <img src="https://img.shields.io/badge/Clear_Communication-7AA2F7?style=flat-square&labelColor=7AA2F7" />
+  <img src="https://img.shields.io/badge/Working_Under_Pressure-7AA2F7?style=flat-square&labelColor=7AA2F7" />
+  <img src="https://img.shields.io/badge/Ownership-7AA2F7?style=flat-square&labelColor=7AA2F7" />
 </p>
 
 <br/>
