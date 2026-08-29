@@ -46,6 +46,7 @@ const dinmuhammad = {
   role: "Full-Stack Developer",
   focus: ["Backend Engineering", "Clean Architecture", "Scalable Systems"],
   daily:  ["TypeScript", "Node.js", "NestJS", "PostgreSQL", "React"],
+  integrations: ["Payment Gateways", "LLM APIs", "REST", "GraphQL", "gRPC"],
   learning: ["Distributed Systems", "AI-powered Applications"],
   philosophy: "Reliable code, better performance, best engineering practices",
 } as const;
@@ -59,7 +60,7 @@ const dinmuhammad = {
     <td>🌱</td><td><b>Currently learning</b></td><td>Distributed systems &amp; LLM-powered applications</td>
   </tr>
   <tr>
-    <td>💬</td><td><b>Ask me about</b></td><td>Node.js, NestJS, PostgreSQL, clean architecture</td>
+    <td>💬</td><td><b>Ask me about</b></td><td>Node.js, NestJS, PostgreSQL, payment gateway integration</td>
   </tr>
   <tr>
     <td>📫</td><td><b>Reach me at</b></td><td><a href="mailto:qosimovmirjalol829@gmail.com">qosimovmirjalol829@gmail.com</a></td>
@@ -99,6 +100,16 @@ const dinmuhammad = {
   <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square&logoColor=FFFFFF" />
+</p>
+
+**Payment Integrations**
+
+<p>
+  <img src="https://img.shields.io/badge/Binance_Pay-F0B90B?style=flat-square&logo=binance&logoColor=1E2026" />
+  <img src="https://img.shields.io/badge/Payme-00CCCC?style=flat-square&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Uzum_Bank-7000FF?style=flat-square&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Octobank-1A2B4C?style=flat-square&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Pay4Game-22C55E?style=flat-square&logoColor=FFFFFF" />
 </p>
 
 **Also work with**
